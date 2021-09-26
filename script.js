@@ -12,4 +12,4 @@ window.onscroll=()=>{
 }
 window.onload = setTimeout(
     function(){ document.querySelector(".preloader").style.display = "none"; }
-,1000 );
+,7000 );
